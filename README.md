@@ -22,3 +22,15 @@ The following image is a screenshot of the app.
 ![App screenshot](./public/images/image2.png)
 
 ## Aplication deployment:
+
+### Heroku:
+
+https://budgettracker8907.herokuapp.com/
+
+### Github Repository:
+
+https://github.com/LuisBonilla89/Homework-19-Budget-Tracker
+
+## License:
+
+MIT License.
